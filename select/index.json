@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "宵花火",
+  "base_artist": "ばんばんざい",
+  "createdAt": "2026-01-02T13:36:29.474904Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宵花火",
+      "artist": "ばんばんざい",
+      "has_synced": true,
+      "path": "select/01_宵花火_ばんばんざい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宵花火",
+      "artist": "ばんばんざい",
+      "has_synced": false,
+      "path": "select/pl_01_宵花火_ばんばんざい.txt"
+    }
+  ]
+}
